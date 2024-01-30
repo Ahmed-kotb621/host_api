@@ -1,5 +1,5 @@
-[
-    productData: [
+{
+    "productData": [
     {
       cat_name: "groceries",
       id: 1,
@@ -4874,7 +4874,7 @@
     },
   ],
 
-  topRated: [
+  "topRated": [
     {
       productName: "Moong Dal 2 kg",
       price: "246",
@@ -5060,5 +5060,5 @@
       quantity: 1,
     },
   ],
-  cartItems: [],
-]
+  "cartItems": [],
+}
