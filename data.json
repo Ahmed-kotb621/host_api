@@ -1,7 +1,7 @@
 {
   "productData": [
     {
-      "cat_name": "groceries",
+      "cat_name": "Groceries",
       "id": 1,
       "image": "https://cdn-icons-png.flaticon.com/512/3724/3724788.png",
       "items": [
@@ -788,7 +788,7 @@
     {
       "cat_name": "Fashion",
       "id": 3,
-      "image": "https://cdn-icons-png.flaticon.com/128/12516/12516451.png",
+      "image": "",
       "items": [
         {
           "cat_name": "Men Western Wear",
